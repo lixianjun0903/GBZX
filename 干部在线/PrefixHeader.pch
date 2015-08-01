@@ -1,0 +1,28 @@
+//
+//  PrefixHeader.pch
+//  干部在线
+//
+//  Created by lixianjun on 14-12-29.
+//  Copyright (c) 2014年 中青年. All rights reserved.
+//
+
+#ifndef _____PrefixHeader_pch
+#define _____PrefixHeader_pch
+#define  backGoround  @"#eeeae7"
+#define iOS7  [[[UIDevice currentDevice]systemVersion]floatValue]>=7.0
+#define IOS_7 ([[[UIDevice currentDevice] systemVersion] intValue] >= 7.0)
+#define WIDETH self.view.frame.size.width
+#define HEIGHT self.view.frame.size.height
+#define BASEURL @"http://www.zqgbzx.cn:7070/"
+#import "MyContol.h"
+#import "GeneralizedProcessor.h"
+#import "LXJAPI.h"
+#import "Adaptation.h"
+#import "UIImage+GIF.h"
+#import "UIImageView+WebCache.h"
+#import "UIButton+WebCache.h"
+#import "MBProgressHUD.h"
+#import "BaseViewController.h"
+#import "MJRefresh.h"
+#import "SDCycleScrollView.h"
+#endif

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F5DDC15-BF05-481D-A694-80D50A3DF5AF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>干部在线</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1af67872-6190-8740-9415-ff4ebe3a2950++505</key>
+		<string>https://192.168.1.175:9443/svn/alms-ios/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>干部在线/干部在线.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1af67872-6190-8740-9415-ff4ebe3a2950++505</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1af67872-6190-8740-9415-ff4ebe3a2950++505</key>
+		<string>https://192.168.1.175:9443/svn/alms-ios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.175:9443/svn/alms-ios/trunk/%E5%B9%B2%E9%83%A8%E5%9C%A8%E7%BA%BF/%E5%B9%B2%E9%83%A8%E5%9C%A8%E7%BA%BF.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1af67872-6190-8740-9415-ff4ebe3a2950++505</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1af67872-6190-8740-9415-ff4ebe3a2950++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string>trunk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
